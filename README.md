@@ -1,6 +1,6 @@
 # software-design-patterns
 
-# Creational Patter
+# Creational Pattern
 
 ## Singleton Pattern
 
