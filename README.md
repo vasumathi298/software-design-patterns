@@ -165,6 +165,6 @@ The Client is the code that initiates the construction of the complex object.
 
 - It creates a Builder object and passes it to the Director to initiate the construction process.
 - The Client may retrieve the final product from the Builder after construction is complete.
-![vehicle_builder_pattern_diagram](https://github.com/user-attachments/assets/6c65815a-3291-46ed-97a1-89efb65f8f8e)
+
 
 
